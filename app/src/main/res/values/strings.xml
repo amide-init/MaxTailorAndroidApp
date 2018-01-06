@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Max Tailor</string>
+    <string name="home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_owner">Owner</string>
+    <string name="title_map">Map</string>
+    <string name="backdrop_title">Maxx Tailor</string>
+    <string name="backdrop_subtitle">Maxx Deewana bana de...</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="owner_name">Md Nasim</string>
+    <string name="introduction">hello everyone \n welcome to the most trusted and renoned tailor of this city.the fine and good work
+    with better outfits are here. we beleave in style and trend that match with the world. </string>
+    <string name="add_ress">Found us at : Hunumam Mandir Gali near Krishna Hotel, Ranchi Patan Road Jhumri Teliya, Koderma \nPincode: 825409
+    \nMobile No. : +919934178299</string>
+    <string name="sologan">Max Deewana Bana de</string>
+    <string name="my_prefence">"com.amideinc.MyPref"</string>
+    <string name="my_prefence_key">"com.amideinc.MyPrefKey"</string>
+
+    <string-array name="kurtas_link">
+        <item>https://fashiontrendsinpk.files.wordpress.com/2015/02/red-tree-black-cotton-men-kurta-with-contrast-collar.jpg</item>
+        <item>https://fashiontrendsinpk.files.wordpress.com/2015/02/ali-raza-nasser-black-sherwani-style-kurta-with-maroon-contrast.jpg</item>
+        <item>http://www.latestasianfashions.com/wp-content/uploads/2015/09/Latest-White-Kurta-Design-for-Mehndi-Function.jpeg</item>
+    </string-array>
+    <string-array name="stylist_shirt">
+        <item>https://ae01.alicdn.com/kf/HTB1TQIMan0ATuJjSZFEq6yp2FXa3/2017-autumn-new-men-s-shirt-casual-young-men-hair-stylist-long-sleeve-shirt-blush-clothes.jpg_640x640.jpg</item>
+        <item>https://www.myshopbazzar.com/media/catalog/product/cache/1/thumbnail/300x500/9df78eab33525d08d6e5fb8d27136e95/MSB-11/media/TG-SHRT-2-6.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/I/41ysdHfYqrL.jpg</item>
+        <item>https://laksba.com/wp-content/uploads/2017/09/7.jpg</item>
+        <item>http://www.leftbankgallery.co.uk/images/Cheap%20Stylish/Men/Tops/Pink%20Blue%20Next%20Coral%20Short%20Sleeve%20Linen%20Blend%20Check%20Shirt%20Stylist%20Men%20Tops%20-%2046896272%206229.jpg</item>
+        <item>https://i.pinimg.com/736x/b7/3c/19/b73c192d26dfa4c1302b0b0422efbe2b--christmas--button-down-shirts.jpg</item>
+    </string-array>
+
+    <string-array name="formal_shirt_cat">
+        <item>http://www.blackberrys.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/1/_/1_1490_1.jpg</item>
+        <item>https://jadeblue.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/g/r/greenfibre-light-blue-dobby-slim-fit-formal-shirt-1.jpg</item>
+        <item>https://www.fbbonline.in/media/product/96/56/1-zoom.jpg</item>
+        <item>https://jadeblue.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/z/a/zaae_1.jpg</item>
+        <item>https://www.allonlinestore.in/media/product/78/41/1-catalog.jpg</item>
+        <item>https://static.zara.net/photos///2017/I/0/2/p/6264/300/505/2/w/560/6264300505_2_1_1.jpg</item>
+        <item>https://cdn.shopify.com/s/files/1/1090/7042/products/product-image-50119979_grande.jpg?v=1487580085</item>
+        <item>https://images-na.ssl-images-amazon.com/images/I/61shuYLxX3L._UL1500_.jpg</item>
+        <item>http://mcrshopping.com/img-m/images/products/1971/3504_3Fcv.jpg</item>
+        <item>http://asset1.cxnmarksandspencer.com/is/image/mands/SD_03_T11_1251U_BB_X_EC_0?$PLP_PRODUCT_IMAGE$</item>
+    </string-array>
+</resources>
